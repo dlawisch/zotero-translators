@@ -9,7 +9,7 @@
 	"inRepository": true,
 	"translatorType": 5,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2024-04-30 16:20:23"
+	"lastUpdated": "2024-04-30 17:15:28"
 }
 
 /*
@@ -66,5 +66,63 @@ function doWeb(doc, url) {
 	newItem.complete();
 }/** BEGIN TEST CASES **/
 var testCases = [
+	{
+		"type": "web",
+		"url": "https://paulgraham.com/hp.html",
+		"items": [
+			{
+				"itemType": "blogPost",
+				"title": "Hackers and Painters",
+				"creators": [
+					{
+						"firstName": "Paul",
+						"lastName": "Graham",
+						"creatorType": "author"
+					}
+				],
+				"date": "2003-05",
+				"blogTitle": "Paul Graham",
+				"url": "https://paulgraham.com/hp.html",
+				"attachments": [
+					{
+						"title": "Snapshot",
+						"mimeType": "text/html"
+					}
+				],
+				"tags": [],
+				"notes": [],
+				"seeAlso": []
+			}
+		]
+	},
+	{
+		"type": "web",
+		"url": "https://paulgraham.com/bronze.html",
+		"items": [
+			{
+				"itemType": "blogPost",
+				"title": "Why Smart People Have Bad Ideas",
+				"creators": [
+					{
+						"firstName": "Paul",
+						"lastName": "Graham",
+						"creatorType": "author"
+					}
+				],
+				"date": "2005-04",
+				"blogTitle": "Paul Graham",
+				"url": "https://paulgraham.com/bronze.html",
+				"attachments": [
+					{
+						"title": "Snapshot",
+						"mimeType": "text/html"
+					}
+				],
+				"tags": [],
+				"notes": [],
+				"seeAlso": []
+			}
+		]
+	}
 ]
 /** END TEST CASES **/
