@@ -9,11 +9,10 @@
 	"inRepository": true,
 	"translatorType": 5,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2024-04-30 16:20:17"
+	"lastUpdated": "2024-04-30 17:22:37"
 }
 
 /*
-	The Old New Thing Zotero Translator
 	Copyright (C) 2024 Douglas Lawisch, douglas@lawisch.com.br
 
 	This program is free software: you can redistribute it and/or modify

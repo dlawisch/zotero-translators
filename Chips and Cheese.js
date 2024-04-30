@@ -9,11 +9,10 @@
 	"inRepository": true,
 	"translatorType": 4,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2024-04-30 17:14:21"
+	"lastUpdated": "2024-04-30 17:22:24"
 }
 
 /*
-	Golang Weekly Zotero Translator
 	Copyright (C) 2024 Douglas Lawisch, douglas@lawisch.com.br
 
 	This program is free software: you can redistribute it and/or modify
